@@ -1,4 +1,3 @@
-
 ## Antdroid/Minotauri NFL Roster for 2017-18 Season
 ## version 1.50 (09-15-2017)
 ##Changelog
@@ -7,6 +6,7 @@
 ##v1.20: Randomized Potential based on Age
 ##v1.30 Fixed Player Salaries; New Coverage Formula; Using PFC-Converter v1.2
 ##v1.50 Normalizing Salaries to avoid salary cap issues
+## http://www.AntDroid.net
 ######################################################################  RAVENS
 Baltimore Ravens,BAL
 QB,Joe Flacco,32,2008,70,67,95,99,68,40,19.9,2
@@ -473,7 +473,7 @@ K,Lachlan Edwards,25,2016,69,40,65,87,60,40,0.4,3
 END_PLAYERS
 ######################################################################  TEXANS
 Houston Texans,HOU
-QB,Deshaun Watson,22,2016,96,86,87,81,84,81,4.1,5
+QB,Deshaun Watson,22,2017,96,80,87,81,84,81,3.4,5
 QB,Tom Savage,27,2014,95,54,78,90,61,40,0.4,1
 RB,Tyler Ervin,24,2016,90,40,71,60,88,71,0.5,3
 RB,Jordan Todman,27,2011,70,45,68,63,83,80,0.5,1
@@ -502,31 +502,31 @@ OL,Derek Newton,30,2011,71,71,71,78,71,59,3,3
 OL,Kendall Lamm,25,2015,83,45,81,62,61,61,0.3,1
 OL,Breno Giacomini,32,2008,76,56,78,71,62,59,2.2,1
 DL,Brandon Dunn,25,2014,85,45,73,63,65,65,0.5,2
-DL,J.J. Watt,28,2011,85,81,87,99,99,86,10.7,5
+DL,J.J. Watt,28,2011,85,81,87,99,99,86,11.7,5
 DL,Christian Covington,24,2015,89,60,62,63,63,71,0.4,2
 DL,Joel Heath,24,2016,91,45,73,68,67,71,0.3,2
 DL,D.J. Reader,23,2016,98,45,75,78,71,68,0.4,3
 DL,Carlos Watkins,24,2017,82,40,78,75,70,76,0.5,4
-LB,Jadeveon Clowney,24,2014,77,71,65,70,70,88,6.8,2
+LB,Jadeveon Clowney,24,2014,77,71,95,70,80,88,6.8,4
 LB,Brennan Scarlett,24,2016,68,40,64,59,62,67,0.3,2
 LB,Ufomba Kamalu,25,2016,96,35,78,65,68,59,0.3,1
 LB,Zach Cunningham,23,2017,76,52,85,68,67,76,0.9,4
-LB,Brian Cushing,30,2009,70,73,87,68,71,76,6.4,1
+LB,Brian Cushing,30,2009,70,73,87,68,71,76,6.4,3
 LB,Dylan Cole,23,2017,76,35,78,67,71,70,0.3,3
 LB,Brian Peters,29,2015,81,45,78,60,59,71,0.3,1
 LB,Benardrick McKinney,25,2015,93,73,81,85,67,83,1.2,2
 LB,Whitney Mercilus,27,2012,84,78,78,78,70,78,4.9,3
 CB,Treston Decoud,24,2017,90,40,71,71,78,60,0.5,4
 CB,Kareem Jackson,29,2010,79,70,70,81,83,47,6.7,2
-CB,Joseph Halberdier,27,2016,83,88,91,92,83,84,4.2,4
+CB,Johnathan Joseph,33,2006,63,78,71,92,83,44,4.2,1
 CB,Marcus Burley,27,2013,69,45,78,76,88,40,1.1,1
-CB,Kevin Johnson,25,2015,99,63,81,90,81,55,2.4,4
+CB,Kevin Johnson,25,2015,99,63,81,90,81,55,2.4,2
 S,Marcus Gilchrist,29,2011,78,60,83,88,78,80,2.4,1
 S,Andre Hal,25,2014,82,63,75,86,88,43,0.5,1
 S,Corey Moore,24,2015,98,57,81,74,78,53,0.3,1
 S,Eddie Pleasant,29,2012,76,60,87,76,78,70,0.7,1
 S,Kurtis Drummond,25,2015,68,50,75,78,73,40,0.3,1
-K,Ka'lmi Fairbairn,23,2016,94,35,65,81,75,35,0.6,5
+K,Ka'lmi Fairbairn,23,2016,94,35,65,81,75,35,0.3,4
 K,Shane Lechler,41,2000,64,56,67,81,75,56,1.6,1
 END_PLAYERS
 ######################################################################  COLTS
