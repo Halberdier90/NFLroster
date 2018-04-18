@@ -515,7 +515,7 @@ LB,Brian Cushing,30,2009,70,73,87,68,71,76,6.4,3
 LB,Dylan Cole,23,2017,76,35,78,67,71,70,0.3,3
 LB,Brian Peters,29,2015,81,45,78,60,59,71,0.3,1
 LB,Benardrick McKinney,25,2015,93,73,81,85,67,83,1.2,2
-LB,Whitney Mercilus,27,2012,84,78,78,78,70,78,4.9,3
+LB,Whitney Mercilus,27,2012,84,78,78,78,90,78,4.9,3
 CB,Treston Decoud,24,2017,90,40,71,71,78,60,0.5,4
 CB,Kareem Jackson,29,2010,79,70,70,81,83,47,6.7,2
 CB,Joseph Halberdier,22,2016,83,78,81,92,83,84,4.2,4
