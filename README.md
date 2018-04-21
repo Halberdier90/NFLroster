@@ -518,7 +518,7 @@ LB,Benardrick McKinney,25,2015,93,73,81,85,87,83,1.2,5
 LB,Whitney Mercilus,27,2012,100,88,88,88,90,88,4.9,5
 CB,Treston Decoud,20,2017,99,40,71,71,78,60,0.5,8
 CB,Kareem Jackson,29,2010,99,70,70,81,83,47,6.7,2
-CB,Joseph Halberdier,22,2016,100,78,81,82,83,74,4.2,9
+CB,Josep Halberdier,22,2016,300,78,81,82,83,74,4.2,9
 CB,Marcus Burley,27,2013,69,45,78,76,88,40,1.1,1
 CB,Kevin Johnson,25,2015,99,63,81,90,81,55,2.4,5
 S,Marcus Gilchrist,29,2011,78,60,83,88,78,80,2.4,1
